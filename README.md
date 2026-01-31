@@ -1,7 +1,8 @@
-# VORTEX. 🌪️
-**The Future of Autonomous Digital Systems**
+# VORTEX. 
 
-VORTEX is a high-end, futuristic landing page built with **React**. It features a solid **Bento Grid** architecture enhanced with a premium **Fluted Glass** aesthetic, integrated **3D Spline** scenes, and sophisticated interactive elements.
+### The Future of Autonomous Digital Systems
+
+**VORTEX** is a high-end, futuristic landing page built with **React**. It features a solid **Bento Grid** architecture enhanced with a premium **Fluted Glass** aesthetic, integrated **3D Spline** scenes, and sophisticated interactive elements.
 
 ---
 
@@ -13,16 +14,18 @@ VORTEX is a high-end, futuristic landing page built with **React**. It features 
 * **Modern Aesthetic:** A trendy **Fluted Glass** overlay for enhanced visual depth and light diffraction.
 * **Fully Responsive:** Optimized for all devices, from ultra-wide monitors to mobile screens.
 * **Performance First:** Smooth 60FPS animations using CSS hardware acceleration.
+* **Clean Spline Integration:** Implementation of custom logic to remove Spline watermarks and branding programmatically.
 
 ## 🛠️ Tech Stack
 
-* **Framework:** [React.js](https://reactjs.org/)
-* **3D Engine:** [Spline](https://spline.design/)
-* **Styling:** Pure CSS3 (Custom Variables, Keyframes, and Flexbox/Grid)
+* **Framework:** React.js (Vite)
+* **3D Engine:** Spline Viewer
+* **Styling:** Advanced CSS3 (Custom Variables, Keyframes, Glassmorphism)
+* **Icons:** Lucide React
 * **Typography:** Plus Jakarta Sans
 
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/razanazizieh/VORTEX.git](https://github.com/razanazizieh/VORTEX.git)
+   git clone [https://github.com/razanazizieh/vortex.git](https://github.com/razanazizieh/vortex.git)
