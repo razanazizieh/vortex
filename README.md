@@ -15,7 +15,10 @@ A hero section built around an interactive 3D scene that follows the mouse.
 * **Styling:** Advanced CSS3 (Custom Variables, Keyframes, Glassmorphism)
 * **Icons:** Lucide React
 * **Typography:** Plus Jakarta Sans
+---
 
 ## 🚀 Run locally
-npm install
-npm run dev
+* npm install
+* npm run dev
+
+
